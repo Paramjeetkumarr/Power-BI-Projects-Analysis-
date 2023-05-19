@@ -1,4 +1,4 @@
-# Power-BI-Projects-Analysis-Telecom+Customer+Churn
+
 
 Here are the some of my projects on which I have worked.
 ![image](https://github.com/Paramjeetkumarr/Power-BI-Projects-Analysis-/assets/109340440/858f7198-2619-4998-bf2d-cf53b6715541)
