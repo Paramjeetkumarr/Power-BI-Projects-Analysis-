@@ -1,4 +1,6 @@
 # Power-BI-Projects-Analysis-
+
+Telecom Churn Analysis Report 
 Here are the some of my projects on which I have worked.
 ![image](https://github.com/Paramjeetkumarr/Power-BI-Projects-Analysis-/assets/109340440/20eb3f61-59f6-4e66-9fe6-a654b069a4ed)
 
